@@ -1,4 +1,5 @@
 # Deployment_1.1
+In this deployment, we will run a Jenkins build and manually deploy it to Elastic Beanstalk.
 
 **GitHub**
 - Create a new repository.
