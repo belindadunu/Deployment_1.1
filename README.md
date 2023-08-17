@@ -1,5 +1,6 @@
 # Deployment_1.1
-In this deployment, we will run a Jenkins build and manually deploy it to Elastic Beanstalk.
+
+### In this deployment, we will run a Jenkins build and manually deploy it to AWS Elastic Beanstalk. Using GitHub, Jenkins, and AWS Elastic Beanstalk will allow for a continuous delivery pipeline - developers push code to GitHub, Jenkins builds and tests, then Elastic Beanstalk automatically deploys the application. This workflow enables fast, reliable application updates. We'll store the Python URL shortener application code in GitHub, use Jenkins to validate changes, then deploy manually to Elastic Beanstalk to host the application.
 
 **GitHub**
 - Create a new repository.
